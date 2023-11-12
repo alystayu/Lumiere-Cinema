@@ -152,7 +152,7 @@ body{margin-top:20px;}
         <div class="row align-items-center">
             <div class="col-lg-7 py-5">
                 <h1 class="mb-4">Selamat Datang</h1>
-                <h2 class="m-0">Start Bootstrap creates free, open source, MIT license, Bootstrap <a href="#">themes</a>, <a href="#">templates</a>, and <a href="#">code snippets</a> for you to use on any project, <a href="#">guides</a> to help you learn more about designing and developing with the Bootstrap framework, and premium Bootstrap products.</h2>
+                <h2 class="m-0">Ingin nonton tapi malas mengantri untuk beli tiket? Lumiere Cinema solusinya!</h2>
             </div>
             <div class="col-lg-5">
                 <div class="py-5 px-4 masthead-cards">
@@ -163,7 +163,7 @@ body{margin-top:20px;}
                                     <div class="text-center">
                                         <i class="fa fa-pencil fa-4x my-2"></i>
                                     </div>
-                                    Themes
+                                    Home
                                 </div>
                             </div>
                         </a>
@@ -173,7 +173,7 @@ body{margin-top:20px;}
                                     <div class="text-center">
                                         <i class="fa fa-th fa-4x my-2"></i>
                                     </div>
-                                    Templates
+                                    Film
                                 </div>
                             </div>
                         </a>
@@ -185,7 +185,7 @@ body{margin-top:20px;}
                                     <div class="text-center">
                                         <i class="fa fa-4x fa-code my-2"></i>
                                     </div>
-                                    Snippets
+                                    Riwayat Transaksi
                                 </div>
                             </div>
                         </a>
@@ -195,7 +195,7 @@ body{margin-top:20px;}
                                     <div class="text-center">
                                         <i class="fa fa-4x fa-list my-2"></i>
                                     </div>
-                                    Guides
+                                    Out
                                 </div>
                             </div>
                         </a>

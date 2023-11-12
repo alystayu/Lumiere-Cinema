@@ -232,7 +232,7 @@ include "koneksi.php";
   <?php
   $get_duduk = mysqli_query($conn, "SELECT * FROM seat WHERE status = 'terisi'");
   if (mysqli_num_rows($get_duduk) == 0) {
-    echo '<a class="btn btn-danger btn-lg" role="button">Pilih Tempat Duduk woi</a>';
+    echo "<script>alert('Silakan pilih kursi yang di inginkan!');</script>";
   } else {
     $dt_duduk = mysqli_fetch_array($get_duduk);
     echo '<a href="transaksi.php?id_seat=' . $dt_duduk['no_seat'] . '" class="btn btn-warning btn-lg" role="button" id="tombolkirim">Kirim</a>';
