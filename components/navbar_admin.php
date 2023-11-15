@@ -11895,7 +11895,7 @@ a:focus {
     <div class="container">
         <nav class="navbar navbar-expand-lg ftco_navbar ftco-navbar-light" style="border-radius: 0;" id="ftco-navbar">
             <div class="container">
-                <a class="navbar-brand" href="crud_film.php">Lumiere</a>
+                <a class="navbar-brand" href="#">Lumiere</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                     aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="fa fa-bars"></span>
