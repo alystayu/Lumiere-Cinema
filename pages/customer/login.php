@@ -265,7 +265,7 @@ p {
                     <label></label>
                 </div>
                 <div class="infield">
-                    <input type="email" placeholder="Username" name="username"/>
+                    <input type="text" placeholder="Username" name="username"/>
                     <label></label>
                 </div>
                 <div class="infield">
@@ -281,7 +281,7 @@ p {
                 <h3>LUMIERE CINEMA</h3>
                 <span>Use Your Account</span>
                 <div class="infield">
-                    <input type="email" placeholder="Username" name="username"/>
+                    <input type="text" placeholder="Username" name="username"/>
                     <label></label>
                 </div>
                 <div class="infield">

@@ -15,9 +15,9 @@ if($_POST){
         include "koneksi.php";
         $insert=mysqli_query($conn,"insert into user (nama, username, password) value ('".$nama."','".$username."','".$password."')");
         if($insert){
-            echo "<script>alert('Sukses menambahkan email');location.href='login.php';</script>";
+            echo "<script>alert('Sukses menambahkan akun');location.href='login.php';</script>";
         } else {
-            echo "<script>alert('Gagal menambahkan username');location.href='login.php';</script>";
+            echo "<script>alert('Gagal menambahkan akun');location.href='login.php';</script>";
         }
     }
 }

@@ -221,7 +221,7 @@ body {
     <section class="footer">
         <div class="footer-content">
             <h4>LUMIERE CINEMA</h4>
-            <p>made with love by Alicia Mustika</p>
+            <p>made with love by Alicia Mustika Setyoayu and someone who is not important idk who</p>
             <!-- <div class="social">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
